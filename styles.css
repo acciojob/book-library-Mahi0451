@@ -86,3 +86,8 @@ text-align: center;
 border-radius: 4px;
 font-size: 14px;
 }
+
+
+.book-library .book .author{
+	background-color:#777777;
+}
